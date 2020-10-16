@@ -7,13 +7,13 @@ Ruby is an interpreted, high-level, general-purpose programming language.  Ruby 
 
 ### Contents
 
-🟠 [![Ruby](https://img.shields.io/badge/Introduction%20of-Ruby%20Programming%20Language-critical?style=flat)]()
+🟠 [![Ruby](https://img.shields.io/badge/Introduction%20of-Ruby%20Programming%20Language-critical?style=flat)](https://github.com/shafiunmiraz0/Ruby-Crash-Course/tree/main/Introduction)
 
-🟠 [![Ruby](https://img.shields.io/badge/Installation%20of-Ruby%20Programming%20Language-critical?style=flat)]()
+🟠 [![Ruby](https://img.shields.io/badge/Installation%20of-Ruby%20Programming%20Language-critical?style=flat)](https://github.com/shafiunmiraz0/Ruby-Crash-Course/tree/main/Installation)
 
-🟠 [![Ruby](https://img.shields.io/badge/Setup%20of-Ruby%20Programming%20Language-critical?style=flat)]()
+🟠 [![Ruby](https://img.shields.io/badge/Setup%20of-Ruby%20Programming%20Language-critical?style=flat)](https://github.com/shafiunmiraz0/Ruby-Crash-Course/tree/main/Setup)
 
-🟠 [![Ruby](https://img.shields.io/badge/Hello-World-critical?style=flat)]()
+🟠 [![Ruby](https://img.shields.io/badge/Hello-World-critical?style=flat)](https://github.com/shafiunmiraz0/Ruby-Crash-Course/tree/main/Hello%20World)
 
 🟠 [![Ruby](https://img.shields.io/badge/Drawing-a%20Shape-critical?style=flat)]()
 
